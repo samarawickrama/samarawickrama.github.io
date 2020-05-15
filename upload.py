@@ -1,5 +1,3 @@
-#!C:/Users/SAMARAM/AppData/Local/Continuum/Anaconda3/python.exe
-
 print("content-type: text/html\n\n" )
 
 import os
